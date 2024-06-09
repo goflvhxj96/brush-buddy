@@ -1,3 +1,4 @@
+# Brush Buddy
 
 ![image](https://github.com/goflvhxj96/brush-buddy/assets/122776437/de1e9508-8840-4694-9521-896f418c238a)
 
