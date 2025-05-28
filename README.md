@@ -1,6 +1,6 @@
 # Brush Buddy
 
-![image](https://github.com/goflvhxj96/brush-buddy/assets/122776437/de1e9508-8840-4694-9521-896f418c238a)
+<img src="assets/bdcover.png" height="400" />
 
 ### 프로젝트 진행 기간
 
@@ -93,10 +93,10 @@
 ![브러시버디개발환경](image.png)
 
 ## 서비스 아키텍처
-![브러시버디아키텍처](https://github.com/goflvhxj96/brush-buddy/assets/122776437/3044ecc8-5e0b-4b9e-aea1-5a92c1615614)
+<img src="assets/bdarchi.png" height="600" />
 
 ## ERD 다이어그램
-![브러시버디다이어그램](https://github.com/goflvhxj96/brush-buddy/assets/122776437/22664e80-491a-4890-8e80-621439e2758e)
+<img src="assets/bderd.png" height="600" />
 
 
 ### 📂디렉토리 구조
